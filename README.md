@@ -1,5 +1,8 @@
 # Selected Software Projects
 
+I’m Rafael Nobre, based in São Paulo, Brazil. This portfolio covers collaborative projects and hands-on work in web development, integrations, Python automation, and reporting.
+
+
 ## Run the payroll reconciliation demo
 
 Run this command from the repository root with Python 3:
@@ -12,8 +15,6 @@ The script loads two synthetic CSV exports into SQLite and runs [the reconciliat
 
 The example produces three rows: a value mismatch of -24.99, a missing record for 120.50, and an unexpected record for 85.00. Matching records are excluded. To use your own inputs, run `python reconcile_payroll.py expected.csv actual.csv -o reconciliation.csv`. The CSVs must follow the headers in [sample_expected.csv](sample_expected.csv), with dot-decimal amounts and one row per key.
 
-
-I’m Rafael Nobre, based in São Paulo, Brazil. This portfolio covers collaborative projects and hands-on work in web development, integrations, Python automation, and reporting.
 
 ## Full-stack applications and integrations
 
