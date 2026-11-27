@@ -1,5 +1,9 @@
 # Selected Software Projects
 
+[Browse the automation and reporting case studies](CASE_STUDIES.md) or [open the synthetic workflow demo](workflow_demo.py).
+
+
+
 I’m Rafael Nobre, based in São Paulo, Brazil. This portfolio covers collaborative projects and hands-on work in web development, integrations, Python automation, and reporting.
 
 
