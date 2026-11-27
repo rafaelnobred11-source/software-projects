@@ -71,8 +71,7 @@ def main():
             writer.writerow(headers)
             writer.writerows(rows)
     except (OSError, ValueError, csv.Error, sqlite3.Error) as error:
-        parser.exit(1, f"Error: {error}
-")
+        parser.exit(1, f"Error: {error}\n")
     print(f"Wrote {len(rows)} exceptions to {args.output}")
 
 
